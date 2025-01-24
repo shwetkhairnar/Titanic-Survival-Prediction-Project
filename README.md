@@ -1,24 +1,31 @@
-# Titanic-Survival-Prediction-Project
-Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
+# Titanic Survival Prediction Project  
 
-The most famous competition over the kaggle . In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their Machine Learning Journey. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
+This project applies Machine Learning algorithms to the famous Titanic Disaster Dataset to predict the survival of passengers.  
 
-Dependencies:
+## About the Project  
+The Titanic dataset is one of the most popular beginner-friendly challenges on Kaggle. This repository is designed to guide beginners on how to start their Kaggle journey and approach their first Machine Learning project. The notebook takes a step-by-step approach to explain key topics in a way that's easy for anyone to understand.  
 
-Python3
-Numpy
-Pandas
-Matplotlib
-Supervised Learning
-Machine Learning Algorithm
-Classification Algorithms
-This Notebook will show basic examples of:
+## Dependencies  
+To run the project, you’ll need the following:  
+- **Python 3**  
+- **Numpy**  
+- **Pandas**  
+- **Matplotlib**  
+- **Supervised Learning Algorithms**  
+- **Classification Algorithms**  
 
-Data Handling:
+## What’s Covered in This Notebook  
 
-Importing Data with Pandas
-Cleaning Data
-Exploring Data through Visualizations with Matplotlib
-Data Analysis:
+### Data Handling  
+- Importing data using Pandas  
+- Cleaning and preprocessing the data  
+- Visualizing and exploring data with Matplotlib  
 
-Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results.
+### Data Analysis  
+- Supervised Machine Learning Techniques, including:  
+  - Logistic Regression Model  
+  - Support Vector Machine (SVM) with 3 different kernels  
+  - Basic Random Forest  
+  - Visualizing and interpreting results  
+
+This repository is perfect for those just starting their Machine Learning journey and looking for a straightforward and practical introduction to the field.
